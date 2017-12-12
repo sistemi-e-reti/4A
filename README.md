@@ -1,4 +1,4 @@
-# 4A ser giua
+# 4A Sistemi e Reti - Giua
 
 ## Lezioni
 1. [Mezzi trasmissivi](http://svel.to/o9a), [TEST](http://svel.to/o9c)

@@ -8,3 +8,5 @@
 5. [Dominio di collisione e di Broadcast](http://svel.to/ozd), [TEST](http://svel.to/p4n)
 6. [Indirizzamento IP](http://svel.to/pez), [Esercizi](http://svel.to/pol)
 7. [Subnetting Quiz](http://svel.to/pu5)
+8. [Laboratorio - Static routing](http://svel.to/q72)
+9. [Routing](http://svel.to/q7i)
